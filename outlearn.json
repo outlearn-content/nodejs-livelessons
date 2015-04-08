@@ -1,0 +1,20 @@
+{
+  "olpVersion" : "0.1",
+  "name" : "nodejs-livelessons",
+  "version" : "0.1",
+  "title" : "Learning Node.js LiveLessons (Video Training)",
+  "description": "Learning Node.js LiveLessons provides developers with a practical introduction to Node.js, an exciting new platform for developing web and network applications.",
+  "homepage" : "https://www.safaribooksonline.com/library/view/learning-nodejs-livelessons/9780133378023/",
+  "authors" : ["Marc Wandschneider"],
+  "license" : "All Rights Reserved",
+  "contact" : {
+    "url" : "www.safaribooksonline.com",
+    "twitter": "safaribookshelp"
+  },
+  "sections" : [
+    {
+      "title": "Introduction",
+      "location": "sections/introduction.md"
+    }
+  ]
+}
