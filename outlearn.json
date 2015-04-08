@@ -16,5 +16,12 @@
       "title": "Introduction",
       "location": "sections/introduction.md"
     }
+  ],
+  "assets" : [
+    {
+      "name" : "intro_screenshot",
+      "contentType" : "image/png",
+      "location" : "assets/intro_screenshot.png"
+    }
   ]
 }
